@@ -9,7 +9,7 @@ import Loading from '../layouts/Loading/Loading';
 
 const Main = styled.main`
   width: 100%;
-  height: calc(100vh - 108px);
+  height: calc(100dvh - 108px);
   overflow-x: hidden;
   overflow-y: auto;
   margin-top: 48px;

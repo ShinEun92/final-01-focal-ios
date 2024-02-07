@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom';
 
 const NoPostsContainer = styled.section`
   width: 100%;
-  height: calc(100vh - 300px);
+  height: calc(100dvh - 300px);
   background-color: var(--white);
 `;
 

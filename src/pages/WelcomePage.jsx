@@ -12,7 +12,7 @@ import facebook from '../assets/icons/facebook.svg';
 
 const Container = styled.div`
   overflow-y: scroll;
-  height: 100vh;
+  height: 100dvh;
   display: flex;
   flex-direction: column;
   align-items: center;

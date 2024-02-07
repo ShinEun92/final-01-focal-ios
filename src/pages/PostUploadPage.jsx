@@ -12,7 +12,7 @@ const PostMainStyle = styled.main`
   padding: 20px 16px 20px;
   min-width: 390px;
   width: 100%;
-  height: calc(100vh - 48px);
+  height: calc(100dvh - 48px);
   overflow-y: auto;
 `;
 

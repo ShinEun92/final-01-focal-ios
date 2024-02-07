@@ -18,7 +18,7 @@ import { useRef } from 'react';
 
 const Main = styled.main`
   width: 100%;
-  max-height: calc(100vh - 108px);
+  max-height: calc(100dvh - 108px);
   overflow-y: auto;
   display: flex;
   flex-direction: column;

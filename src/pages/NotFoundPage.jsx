@@ -6,7 +6,7 @@ import notFoundImage from '../assets/images/not-found.png';
 
 const Container = styled.section`
   display: flex;
-  height: calc(100vh - 150px);
+  height: calc(100dvh - 150px);
   flex-direction: column;
   align-items: center;
   justify-content: center;

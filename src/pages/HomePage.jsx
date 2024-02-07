@@ -15,7 +15,7 @@ import PostsFeed from '../components/Post/PostsFeed';
 
 const ContentWrapper = styled.main`
   margin: 48px 0 0;
-  height: calc(100vh - 108px);
+  height: calc(100dvh - 108px);
   overflow-y: auto;
 `;
 

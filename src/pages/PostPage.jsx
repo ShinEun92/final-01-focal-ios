@@ -16,7 +16,7 @@ import { useInView } from 'react-intersection-observer';
 
 const Main = styled.main`
   margin-top: 48px;
-  height: calc(100vh - 108px);
+  height: calc(100dvh - 108px);
   overflow: scroll;
   scroll-behavior: smooth;
 `;

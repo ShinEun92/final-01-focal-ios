@@ -13,7 +13,7 @@ const MainStyle = styled.main`
   background-color: #f2f2f2;
   margin: 48px 0 60px 0;
   width: 100%;
-  height: calc(100vh - 108px);
+  height: calc(100dvh - 108px);
   overflow-y: scroll;
 `;
 

@@ -10,7 +10,7 @@ const ListMainStyle = styled.main`
   overflow-y: scroll;
   min-width: 390px;
   width: 100%;
-  height: calc(100vh - 108px);
+  height: calc(100dvh - 108px);
   background-color: var(--white);
 `;
 
