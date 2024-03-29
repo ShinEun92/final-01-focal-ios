@@ -30,6 +30,7 @@ export const GlobalStyle = createGlobalStyle`
 
   body {
     font-family: 'SpoqaHanSansNeo-Regular';
+    -webkit-overflow-scrolling: auto;
   }
 
   button {
