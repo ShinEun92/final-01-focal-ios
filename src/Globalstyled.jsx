@@ -30,6 +30,8 @@ export const GlobalStyle = createGlobalStyle`
 
   body {
     font-family: 'SpoqaHanSansNeo-Regular';
+    min-height: 100vh;
+    overflow: auto;
     -webkit-overflow-scrolling: auto;
   }
 
